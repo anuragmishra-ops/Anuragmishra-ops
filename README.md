@@ -97,10 +97,6 @@ me = Anurag()
 
 <div align="center">
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragmishra-ops&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888&icon_color=3776AB)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishra-ops&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=anuragmishra-ops&theme=transparent&hide_border=true)
 
 </div>
