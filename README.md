@@ -1,89 +1,126 @@
-Hey everybody...!!
+ <div align="center">
+
+# Hey, I'm Anurag Mishra 👋
+
+### `> learning, building, and exploring the world of Python.`
+
+**Python Developer | AI/ML Enthusiast | BTech AIML Student**
+
+I enjoy turning ideas into code, solving problems, and building projects while exploring the world of Artificial Intelligence and Machine Learning.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-anuragmishra--ops-181717?style=for-the-badge&logo=github)](https://github.com/anuragmishra-ops)
+[![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+</div>
+
+---
+
+## ⚡ About Me
+
+```python
+class Anurag:
+    def __init__(self):
+        self.name = "Anurag Mishra"
+        self.role = "Python Developer & AIML Student"
+        self.education = "BTech in AI & Machine Learning"
+        self.language = ["Python"]
+        self.interests = [
+            "Python Development",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Problem Solving"
+        ]
+        self.currently_learning = [
+            "NumPy",
+            "Pandas",
+            "Data Analysis",
+            "AI & Machine Learning"
+        ]
+
+    def goal(self):
+        return "Learn, build, improve, and keep growing."
+
+me = Anurag()
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · anuragmishra-ops</sub></p>
-<h1>Anurag mishra</h1>
-<h2>Product-minded developer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+**Languages**
 
-<p><a href="https://github.com/anuragmishra-ops">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/331612039?v=4" width="180" alt="Anurag mishra GitHub avatar" />
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Python Libraries & Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Development Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>0 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>1 contributions · 1 active days</p></td>
-</tr>
-</table>
+## 🎯 Current Focus
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+```text
+▸ Python Development    → Strengthening fundamentals and problem-solving
+▸ Data Analysis         → NumPy, Pandas and data manipulation
+▸ AI & Machine Learning → Exploring ML concepts and applications
+▸ Projects              → Building practical Python projects
+▸ Problem Solving       → Improving coding logic and efficiency
+```
 
-<h2>Proof at a glance</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## 📚 Currently Learning
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=anuragmishra-ops&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331612039%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=anuragmishra-ops&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331612039%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Anurag mishra GitHub proof metrics" />
-</picture>
-</p>
+- Advanced Python concepts and OOP
+- NumPy and numerical computing
+- Pandas and data cleaning
+- Data analysis and visualization
+- Foundations of Artificial Intelligence and Machine Learning
 
-<h2>Selected work</h2>
-<p>Public projects are still being indexed. Pin a few repositories to turn this section into a concise proof portfolio.</p>
+---
 
-<h2>Technical toolkit</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=anuragmishra-ops&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331612039%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=anuragmishra-ops&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331612039%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Anurag mishra technology stack" />
-</picture>
-</p>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
-</tr>
-</table>
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragmishra-ops&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888&icon_color=3776AB)
 
-<h2>Consistency signal</h2>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishra-ops&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=888888)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=anuragmishra-ops&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331612039%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=anuragmishra-ops&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331612039%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Anurag mishra contribution activity" />
-</picture>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=anuragmishra-ops&theme=transparent&hide_border=true)
 
-<hr />
+</div>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/anuragmishra-ops">GitHub</a></td>
-</tr>
-</table>
+---
 
-<p align="center"><sub>Anurag mishra · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## 🌱 My Philosophy
+
+> "The best way to learn programming is to build something, break it, understand it, and build it better."
+
+I'm currently focused on strengthening my Python skills and gradually moving towards the exciting world of AI and Machine Learning.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👨‍💻
+
+**Always learning. Always building.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=anuragmishra-ops&color=3776AB&style=flat-square)
+
+</div>
